@@ -1,0 +1,1 @@
+This code will take new shipper/employee data from gsheets inputed by user, and checks it with our past fraud database, if the name/email/ other data is found in our database then it will be flagged as potential risk.
